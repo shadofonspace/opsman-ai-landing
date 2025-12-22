@@ -6,7 +6,7 @@ const integrations = [
   { name: "Proxmox", icon: Server },
   { name: "VMware", icon: Box },
   { name: "OpenStack", icon: Database },
-  { name: "Мониторинг", icon: Monitor },
+  { name: "Zabbix", icon: Monitor },
 ];
 
 const IntegrationsSection = () => {
