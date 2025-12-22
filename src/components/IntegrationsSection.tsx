@@ -1,7 +1,7 @@
 import { Cloud, Server, Container, Database, Monitor, Box } from "lucide-react";
 
 const integrations = [
-  { name: "AWS", icon: Cloud },
+  { name: "Yandex Cloud", icon: Cloud },
   { name: "Kubernetes", icon: Container },
   { name: "Proxmox", icon: Server },
   { name: "VMware", icon: Box },
